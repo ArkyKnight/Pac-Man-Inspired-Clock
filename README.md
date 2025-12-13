@@ -1,25 +1,25 @@
 # Pac-Clock
-## Introduccion: 
-Dentro de este proyecto podras encontrar un reloj atomico funcional realizado en java, con la tematica del videojuego:
+## Introduction:
+Within this project, you will find a functional atomic clock made in Java, with the theme of the video game:
 <img width="768" height="432" alt="image" src="https://github.com/user-attachments/assets/572cf38f-919e-4e22-8772-d0f299e414bd" />
 
-Utilizando las librerias de ```Java Awt``` y ```Java Swing```, contiene animaciones para mayor atractivo, en este caso utilizando ```Threads```,
-tambien cuenta con recibimiento de Inputs.
+Using the ```Java Awt``` and ```Java Swing libraries```, it contains animations for greater appeal, in this case using Threads,
+and also accepts Inputs.
 
-## Funcionamiento general:
-Al abrir la aplicacion el usuario se encontrara con un reloj atomico, la diferencia entre los relojes normales y los atomicos, es el hecho de que los atomicos tienen una medicion del tiempo mas precisa, gracias a la estabilidad fisica del atomo, cambiando a una frecuencia constante de: ```9 192 631 770 oscilaciones por segundo``` debido a esto el reloj tiene un efecto fluido notable a los relojes normales.
+## General operation:
+When opening the application, the user will see an atomic clock. The difference between normal clocks and atomic clocks is that atomic clocks measure time more accurately thanks to the physical stability of the atom, which oscillates at a constant frequency of: ```9,192,631,770 oscillations per second``` . Because of this, the clock has a noticeable fluid effect compared to normal clocks.
 
 
 ![ezgif-371228fc41be998c](https://github.com/user-attachments/assets/b083276b-6bcb-4121-809d-7471fa70bef4)
 
-## Tecnologias usadas:
-- Lenguaje principal java.
-- Uso de Java Swing y AWT ```javax.swing.JFrame```,```javax.swing.Timer```,```java.awt.Color``` y ```java.awt.event.*```.
-- Uso de event listeners, ```MouseListener```, ```KeyListener``` y ```ActionListener```.
-- Animaciones en tiempo real mediante uso de timers, ```javax.swing.Timer```.
-- Uso de API Audio De Java, ```javax.sound.sampled.AudioSystem```, ```javax.sound.sampled.AudioSystem```, ```javax.sound.sampled.AudioSystem```.
-- Manejo de archivos para audio .wav, ```java.io.File``` y ```java.io.IOException```.
-- Uso de programacion orientada a objetos, en clases como relojanalogico y base.
+## Technologies used:
+- Main language: Java.
+- Use of Java Swing and AWT ```javax.swing.JFrame```,```javax.swing.Timer```,```java.awt.Color``` and ```java.awt.event.*```.
+- Use of event listeners, ```MouseListener```, ```KeyListener``` and ```ActionListener```.
+- Real-time animations using timers, ```javax.swing.Timer```.
+- Use of Java Audio API, ```javax.sound.sampled.AudioSystem```, ```javax.sound.sampled ```.  ```AudioSystem ```,  ```javax.sound.sampled.AudioSystem ```.
+- Handling .wav audio files, java.io.File, and java.io.IOException.
+- Use of object-oriented programming in classes such as relojanalogico and base.
 
 
 
