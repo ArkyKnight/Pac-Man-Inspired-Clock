@@ -20,7 +20,7 @@ If the user clicks on PAC-MAN (The character of the center), it will detach from
 - Real-time animations using timers, ```javax.swing.Timer```.
 - Use of Java Audio API, ```javax.sound.sampled.AudioSystem```, ```javax.sound.sampled ```.  ```AudioSystem ```,  ```javax.sound.sampled.AudioSystem ```.
 - Handling .wav audio files, java.io.File, and java.io.IOException.
-- Use of object-oriented programming in classes such as relojanalogico and base.
+- Use of object-oriented programming in classes such as relojanalogico, eyes, shadow and base.
 
 
 
