@@ -9,6 +9,7 @@ and also accepts Inputs.
 ## General operation:
 When opening the application, the user will see an atomic clock. The difference between normal clocks and atomic clocks is that atomic clocks measure time more accurately thanks to the physical stability of the atom, which oscillates at a constant frequency of: ```9,192,631,770 oscillations per second``` . Because of this, the clock has a noticeable fluid effect compared to normal clocks.
 
+If the user clicks on PAC-MAN (The character of the center), it will detach from his origin and the ghost all around will turn blue, also the program will begin to receive input. If the user presses the keys WASD, PAC-MAN will begin to move in the corresponding directions W=UP,S=DOWN,A=LEFT and lastly D=RIGHT, if the user chooses to move PAC-MAN near a ghost, the ghost will be eaten and dissapear letting only his eyes in his last position.
 
 ![ezgif-371228fc41be998c](https://github.com/user-attachments/assets/b083276b-6bcb-4121-809d-7471fa70bef4)
 
